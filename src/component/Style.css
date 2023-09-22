@@ -1,0 +1,67 @@
+.box{
+    width: 25vw;
+    height: 60vh;
+   margin: 2px auto;
+   background: #a5bbdd;
+   border-radius: 0.5rem;
+   box-shadow: 0 0.2rem 3rem rgba(0, 0, 0, 0.2);
+   position: relative;
+   overflow: hidden;
+   transform: translate3d(0,0,0);
+   /* min-width: 20rem; */
+   /* min-height: 35rem; */
+
+   text-align: center;
+   justify-content: center;
+  font-family: 'Jost', sans-serif;
+   
+
+}
+
+.inputField{
+   
+   margin: 5px 0px;
+   border-radius: 20px;
+   width: 200px;
+  height: 35px;
+  font-size: 20px;
+  font-family: 'Jost', sans-serif;
+}
+
+.location{
+    text-transform: capitalize;
+}
+
+.temp{
+    /* font-weight: 200; */
+    font-family: 'Jost', sans-serif;
+
+}
+
+/* .wave{
+    opacity: 0.3;
+    position: absolute;
+    top: 120%;
+    left: 50%;
+    background: white;
+    width: 50rem;
+    height: 50rem;
+    margin-left: -25rem;
+    margin-top: -20rem;
+    transform-origin: 50% 48%;
+    border-radius: 43%;
+    animation: drift 3000ms infinite linear;
+    z-index: 1;
+} */
+
+/* .wave -three{
+    animation: drift 5000ms infinite linear;
+    opacity: 0.2;
+    z-index: 2 !important;
+}
+
+.wave -two{
+    animation: drift 7000ms infinite linear;
+    opacity: 0.1;
+    z-index: 3 !important;
+} */
